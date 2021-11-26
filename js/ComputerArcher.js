@@ -14,7 +14,7 @@ class ComputerArcher {
 
     World.add(world, this.body);
 
-    Matter.Body.setAngle(this.body, PI / 2); // 90 degree
+    Matter.Body.setAngle(this.body, PI / 2); // 90 grados
   }
 
   display() {
